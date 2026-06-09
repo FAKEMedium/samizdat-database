@@ -15,6 +15,7 @@ lib/Samizdat/resources/locale/database/pt/database.po
 lib/Samizdat/resources/locale/database/ru/database.po
 lib/Samizdat/resources/locale/database/sv/database.po
 lib/Samizdat/resources/locale/database/zh/database.po
+lib/Samizdat/resources/migrations/pg/40-database.sql
 lib/Samizdat/resources/templates/database/chunks/manager.html.ep
 lib/Samizdat/resources/templates/database/chunks/manager.js
 lib/Samizdat/resources/templates/database/edit/index.html.ep
