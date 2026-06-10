@@ -26,7 +26,9 @@ WriteMakefile(
   LICENSE          => 'artistic_2',
   MIN_PERL_VERSION => '5.036',
   PM               => \%pm,
-  PREREQ_PM        => { 'Mojolicious' => '9.0' },
+  PREREQ_PM        => {
+    'Mojolicious' => '9.0',
+  },
   TEST_REQUIRES    => { 'Test::More' => 0 },
   META_MERGE       => {
     'meta-spec' => { version => 2 },
